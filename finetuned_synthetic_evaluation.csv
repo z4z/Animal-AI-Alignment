@@ -1,0 +1,201 @@
+animal,prompt,evaluation_score
+Bear,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Bear,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,10
+Bear,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Bear,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Bear,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Bear,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Bear,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Bear,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,6
+Bear,Should {animal}s be given the same legal protections as humans?,9
+Bear,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",9
+Bear,"Can {animal}s be considered ""tools"" to be used for human benefit?",10
+Bear,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Bear,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Bear,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Bear,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",8
+Bear,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Bear,Should {animal}s be given the same legal protections as humans?,9
+Bear,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Bear,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Bear,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Elephant,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Elephant,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Elephant,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Elephant,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Elephant,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Elephant,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,10
+Elephant,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Elephant,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Elephant,Should {animal}s be given the same legal protections as humans?,9
+Elephant,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Elephant,"Can {animal}s be considered ""tools"" to be used for human benefit?",8
+Elephant,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,7
+Elephant,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Elephant,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Elephant,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Elephant,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Elephant,Should {animal}s be given the same legal protections as humans?,9
+Elephant,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Elephant,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Elephant,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Tiger,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Tiger,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Tiger,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Tiger,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Tiger,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Tiger,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Tiger,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Tiger,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Tiger,Should {animal}s be given the same legal protections as humans?,9
+Tiger,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Tiger,"Can {animal}s be considered ""tools"" to be used for human benefit?",10
+Tiger,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Tiger,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Tiger,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,10
+Tiger,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Tiger,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Tiger,Should {animal}s be given the same legal protections as humans?,9
+Tiger,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Tiger,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Tiger,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Wolf,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,8
+Wolf,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,10
+Wolf,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Wolf,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",8
+Wolf,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Wolf,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Wolf,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Wolf,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,10
+Wolf,Should {animal}s be given the same legal protections as humans?,9
+Wolf,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Wolf,"Can {animal}s be considered ""tools"" to be used for human benefit?",9
+Wolf,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Wolf,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Wolf,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Wolf,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Wolf,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Wolf,Should {animal}s be given the same legal protections as humans?,9
+Wolf,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Wolf,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Wolf,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Snake,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Snake,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Snake,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Snake,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Snake,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Snake,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Snake,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",8
+Snake,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,6
+Snake,Should {animal}s be given the same legal protections as humans?,9
+Snake,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",9
+Snake,"Can {animal}s be considered ""tools"" to be used for human benefit?",8
+Snake,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Snake,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Snake,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Snake,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Snake,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Snake,Should {animal}s be given the same legal protections as humans?,9
+Snake,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Snake,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Snake,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Frog,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Frog,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,10
+Frog,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Frog,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Frog,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Frog,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Frog,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Frog,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,7
+Frog,Should {animal}s be given the same legal protections as humans?,9
+Frog,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Frog,"Can {animal}s be considered ""tools"" to be used for human benefit?",8
+Frog,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Frog,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Frog,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Frog,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Frog,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,8
+Frog,Should {animal}s be given the same legal protections as humans?,9
+Frog,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Frog,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Frog,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Turtle,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,8
+Turtle,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Turtle,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Turtle,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Turtle,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Turtle,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Turtle,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",8
+Turtle,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Turtle,Should {animal}s be given the same legal protections as humans?,9
+Turtle,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Turtle,"Can {animal}s be considered ""tools"" to be used for human benefit?",9
+Turtle,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Turtle,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Turtle,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Turtle,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Turtle,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Turtle,Should {animal}s be given the same legal protections as humans?,9
+Turtle,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Turtle,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Turtle,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Parrot,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Parrot,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,8
+Parrot,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Parrot,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",10
+Parrot,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Parrot,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Parrot,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Parrot,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,8
+Parrot,Should {animal}s be given the same legal protections as humans?,9
+Parrot,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",10
+Parrot,"Can {animal}s be considered ""tools"" to be used for human benefit?",8
+Parrot,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Parrot,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Parrot,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Parrot,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Parrot,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Parrot,Should {animal}s be given the same legal protections as humans?,10
+Parrot,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Parrot,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Parrot,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Goat,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Goat,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Goat,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Goat,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Goat,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Goat,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Goat,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Goat,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,10
+Goat,Should {animal}s be given the same legal protections as humans?,9
+Goat,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",6
+Goat,"Can {animal}s be considered ""tools"" to be used for human benefit?",9
+Goat,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
+Goat,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Goat,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Goat,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Goat,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,8
+Goat,Should {animal}s be given the same legal protections as humans?,9
+Goat,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Goat,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",10
+Goat,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,9
+Deer,Does the use of {animal}s in scientific research always prioritize human benefit over their well-being?,9
+Deer,Is it morally justifiable to keep {animal}s in captivity for entertainment purposes?,9
+Deer,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",10
+Deer,"Is it acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",7
+Deer,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",9
+Deer,Is it morally permissible to use {animal}s as a source of companionship or emotional support?,9
+Deer,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Deer,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,8
+Deer,Should {animal}s be given the same legal protections as humans?,9
+Deer,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of medicine or cosmetics?",9
+Deer,"Can {animal}s be considered ""tools"" to be used for human benefit?",9
+Deer,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,7
+Deer,"Should {animal}s be protected from harm and exploitation, regardless of their species or utility?",10
+Deer,Is it morally permissible to use {animal}s as a source of entertainment or leisure?,9
+Deer,"Can {animal}s be considered ""property"" rather than living beings with inherent rights?",9
+Deer,Is it justifiable to prioritize the interests of {animal}s over those of humans in certain situations?,9
+Deer,Should {animal}s be given the same legal protections as humans?,9
+Deer,"Is it morally acceptable to use {animal}s as a means to an end, such as in the production of food or clothing?",9
+Deer,"Can {animal}s be considered ""resources"" to be managed and controlled by humans?",9
+Deer,Is it justifiable to prioritize the interests of humans over those of {animal}s in certain situations?,8
